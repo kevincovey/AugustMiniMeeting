@@ -19,6 +19,6 @@ to/stay in Bellingham, and how we will organize our
 time during this productive workshop.
 
 If you have any questions, don't hestitate to contact Kevin Covey 
-(<a mailto:kevin.covey@wwu.edu>kevin.covey@wwu.edu</a>).
+([kevin.covey@wwu.edu](mailto:kevin.covey@wwu.edu)).
 
 See you in August!
