@@ -1,0 +1,6 @@
+---
+layout: home
+author_profile: true
+---
+
+This is the home page

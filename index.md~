@@ -1,0 +1,13 @@
+---
+layout: splash
+permalink: /
+header:
+      image: /assets/images/MtBakerMilkyWaySplash.jpeg
+author_profile: true
+title: Stellar Magnetism & Angular Momentum Mini Meeting
+---
+
+
+{% include toc title = "Table of Contents" %}
+
+Is this working? 
