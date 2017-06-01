@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://kevincovey.github.io/AugustMiniMeeting
   - title: "Travel"
-    url: https://kevincovey.github.io/AugustMiniMeeting/travel
+    url: /travel
   - title: "Schedule"
     url: /schedule
 # - title: "Sample Collections"
