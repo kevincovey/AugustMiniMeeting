@@ -14,7 +14,8 @@ author_profile: false
 Join us in Bellingham, Washington on August 13-18, for a week of activity (pun intended) on
 stellar dynamos, rotation, and angular momentum evolution.
 
-See the links at the top of the page for more info about the trip to Bellingham, and how we will organize our
+See the links at the top of the page for more info about how to get
+to/stay in Bellingham, and how we will organize our
 time during this productive workshop.
 
 If you have any questions, don't hestitate to contact Kevin Covey 

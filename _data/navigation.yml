@@ -6,7 +6,7 @@ main:
     url: /travel
   - title: "Schedule"
     url: /schedule
-# - title: "Sample Collections"
+  # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
